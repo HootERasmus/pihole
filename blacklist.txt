@@ -1,4 +1,6 @@
+jppolid.ekstrabladet.dk
 ib.ekstrabladet.dk
+static.ekstrabladet.dk
+ia.ekstrabladet.dk
 ekstrabladet.dk
-https://ekstrabladet.dk
-*ekstrabladet.dk
+www.ekstrabladet.dk
